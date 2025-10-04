@@ -1,2 +1,5 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
-.
+
+Nome: Leonardo Hoehr Chagas Campos
+Matrícula: 20202002800142
+
